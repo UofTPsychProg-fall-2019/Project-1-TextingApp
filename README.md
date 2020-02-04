@@ -1,7 +1,7 @@
 # TextingApp
  Pseudo-texting GUI for driving simulator
 
-INSTRUCTIONS: You will see a phrase with a text box underneath. Your task as the participant is to re-type this phrase as accurately as you can, before pressing send and moving forward tot he next message. 
+INSTRUCTIONS: You will see a phrase with a text box underneath. Your task as the participant is to re-type this phrase as accurately as you can, before pressing send and moving forward to the next message. 
 
 This is a SELF-PACED task, meaning that a participant can choose to engage in the task at any frequency. Per trial (phrase), data collected consists of: time in seconds, relative time (from first engagement with the keyboard), text (what is currently in the text field), relative text input (real-time letter additions).
 
