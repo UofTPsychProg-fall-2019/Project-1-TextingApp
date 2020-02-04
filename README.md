@@ -1,4 +1,4 @@
-# TextingApp
+# Project1- TextingApp
  Pseudo-texting GUI for driving simulator
 
 INSTRUCTIONS: You will see a phrase with a text box underneath. Your task as the participant is to re-type this phrase as accurately as you can, before pressing send and moving forward to the next message. 
