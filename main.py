@@ -60,7 +60,7 @@ class InstructWin(Screen):
         if sm.test_index < len(PHRASES):
             app.root.current = "Test"
             phrase = PHRASES[sm.test_index]
-            #if phrase number is greater than 0, label & identify this as a test trial?
+            #if there are test phrases left, label & identify this as a test trial
 
             test_win = app.root.children[0]
             test_win.ids.phrase_label.text = phrase['text']
@@ -74,7 +74,6 @@ class InstructWin(Screen):
 
 class TestWin(Screen):
     label_id = ObjectProperty(None)
-    ##why do we need this?
 
     def text(self, value):
         sm.test_data(value)
@@ -97,15 +96,6 @@ class TestWin(Screen):
         else:
             # finished all tests, take me to done screen
             app.root.current = "Done"
-            #last_win = app.root.children[0]
-            #last_win.ids.results_text.text = arrayOfObjectsToCsv(sm.tests)
-            #print(arrayOfObjectsToCsv(sm.tests))
-            #where do I define "last_win"?
-            #pass
-            #test_win = app.root.children[0]
-            #test_win.ids.phrase_label.text = phrase['text']
-            #test_win.ids.phrase_input.text = ""
-            # set up trial text but leave blank for now
 
 class LastWin(Screen):
     pass
@@ -173,9 +163,6 @@ class WindowManager(ScreenManager):
 
         #print(rowlist)
         writer.writerows(rowlist)
-
-   ### def exit(self):
-
 
 kv = Builder.load_file("my.kv")
 #can now link to kv file even if it breaks naming convention
