@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7f163e43-c7ce-4a15-92a1-5b1ca3d0a626" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1XBXlrohfKwc4XIwwlab236EYhl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="TextingApp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f163e43-c7ce-4a15-92a1-5b1ca3d0a626" name="Default Changelist" comment="" />
+      <created>1580520615901</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580520615901</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1861" y="-140" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580520809648">
+      <screen x="1440" y="-356" width="1920" height="1109" />
+    </state>
+    <state x="1861" y="-140" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877/1440.-356.1920.1109@1440.-356.1920.1109" timestamp="1580520809648" />
+    <state width="1701" height="307" key="GridCell.Tab.0.bottom" timestamp="1580838882962">
+      <screen x="1440" y="-356" width="1920" height="1177" />
+    </state>
+    <state width="1701" height="307" key="GridCell.Tab.0.bottom/0.23.1440.809/1440.-356.1920.1177@1440.-356.1920.1177" timestamp="1580838882962" />
+    <state width="1737" height="307" key="GridCell.Tab.0.bottom/0.23.1440.812/1440.-356.1920.1177@1440.-356.1920.1177" timestamp="1580526493781" />
+    <state width="1737" height="307" key="GridCell.Tab.0.bottom/0.23.1440.814/1440.-356.1920.1177@1440.-356.1920.1177" timestamp="1580526413461" />
+    <state width="1701" height="307" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.-356.1920.1109@1440.-356.1920.1109" timestamp="1580837366032" />
+    <state width="1701" height="307" key="GridCell.Tab.0.center" timestamp="1580838882961">
+      <screen x="1440" y="-356" width="1920" height="1177" />
+    </state>
+    <state width="1701" height="307" key="GridCell.Tab.0.center/0.23.1440.809/1440.-356.1920.1177@1440.-356.1920.1177" timestamp="1580838882961" />
+    <state width="1737" height="307" key="GridCell.Tab.0.center/0.23.1440.812/1440.-356.1920.1177@1440.-356.1920.1177" timestamp="1580526493779" />
+    <state width="1737" height="307" key="GridCell.Tab.0.center/0.23.1440.814/1440.-356.1920.1177@1440.-356.1920.1177" timestamp="1580526413459" />
+    <state width="1701" height="307" key="GridCell.Tab.0.center/0.23.1440.877/1440.-356.1920.1109@1440.-356.1920.1109" timestamp="1580837366030" />
+    <state width="1701" height="307" key="GridCell.Tab.0.left" timestamp="1580838882961">
+      <screen x="1440" y="-356" width="1920" height="1177" />
+    </state>
+    <state width="1701" height="307" key="GridCell.Tab.0.left/0.23.1440.809/1440.-356.1920.1177@1440.-356.1920.1177" timestamp="1580838882961" />
+    <state width="1737" height="307" key="GridCell.Tab.0.left/0.23.1440.812/1440.-356.1920.1177@1440.-356.1920.1177" timestamp="1580526493778" />
+    <state width="1737" height="307" key="GridCell.Tab.0.left/0.23.1440.814/1440.-356.1920.1177@1440.-356.1920.1177" timestamp="1580526413459" />
+    <state width="1701" height="307" key="GridCell.Tab.0.left/0.23.1440.877/1440.-356.1920.1109@1440.-356.1920.1109" timestamp="1580837366026" />
+    <state width="1701" height="307" key="GridCell.Tab.0.right" timestamp="1580838882961">
+      <screen x="1440" y="-356" width="1920" height="1177" />
+    </state>
+    <state width="1701" height="307" key="GridCell.Tab.0.right/0.23.1440.809/1440.-356.1920.1177@1440.-356.1920.1177" timestamp="1580838882961" />
+    <state width="1737" height="307" key="GridCell.Tab.0.right/0.23.1440.812/1440.-356.1920.1177@1440.-356.1920.1177" timestamp="1580526493780" />
+    <state width="1737" height="307" key="GridCell.Tab.0.right/0.23.1440.814/1440.-356.1920.1177@1440.-356.1920.1177" timestamp="1580526413460" />
+    <state width="1701" height="307" key="GridCell.Tab.0.right/0.23.1440.877/1440.-356.1920.1109@1440.-356.1920.1109" timestamp="1580837366031" />
+    <state x="1613" y="-238" width="1558" height="965" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1580526495946">
+      <screen x="1440" y="-356" width="1920" height="1177" />
+    </state>
+    <state x="1613" y="-238" width="1558" height="965" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.814/1440.-356.1920.1177@1440.-356.1920.1177" timestamp="1580526495946" />
+    <state x="1613" y="-245" width="1558" height="909" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.877/1440.-356.1920.1109@1440.-356.1920.1109" timestamp="1580523922277" />
+    <state x="2090" y="31" key="com.intellij.ide.util.TipDialog" timestamp="1580520694854">
+      <screen x="1440" y="-356" width="1920" height="1109" />
+    </state>
+    <state x="2090" y="31" key="com.intellij.ide.util.TipDialog/0.23.1440.877/1440.-356.1920.1109@1440.-356.1920.1109" timestamp="1580520694854" />
+  </component>
+</project>
